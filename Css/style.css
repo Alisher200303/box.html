@@ -1,0 +1,180 @@
+/* body {
+  background-color: #8bcdcd;
+  background-image: url("https://i.pinimg.com/236x/e7/f5/1c/e7f51cd3a26d536ac88f38865225941c.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+} */
+
+.one {
+  text-align: center;
+  color: #1b0b08;
+  font-size: 250px;
+  font-family: "Henny Penny", cursive;
+  font-weight: bolder;
+  font-style: inherit;
+}
+
+.common {
+  border-radius: 10%;
+  width: 32%;
+  height: 250px;
+  display: inline-block;
+  box-sizing: border-box;
+  background-color: lightgreen;
+}
+
+.service {
+  text-align: center;
+  color: darkslateblue;
+  font-size: 36px;
+  text-decoration: dashed;
+}
+
+.bir {
+  background: -webkit-linear-gradient(red, black);
+}
+.ikki {
+  background: -webkit-linear-gradient(red, black);
+}
+.uch {
+  background: -webkit-linear-gradient(red, black);
+}
+.four {
+  background: -webkit-linear-gradient(black, red);
+}
+.besh {
+  background: -webkit-linear-gradient(black, red);
+}
+.olti {
+  background: -webkit-linear-gradient(black, red);
+}
+.yetti {
+  background: -webkit-linear-gradient(red, black);
+}
+.sakkiz {
+  background: -webkit-linear-gradient(red, black);
+}
+.nine {
+  background: -webkit-linear-gradient(red, black);
+}
+
+.image1 {
+  border-radius: 15%;
+  display: inline-block;
+  width: 50%;
+  width: 300px;
+  float: left;
+  border: rgb(17, 18, 22) solid 4px;
+  height: 245px;
+}
+.img1 {
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img2 {
+  background-image: url("/image/auto.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img3 {
+  background-image: url("/image/img2.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img4 {
+  background-image: url("/image/tadbirkor.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img5 {
+  background-image: url("/image/img3.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img6 {
+  background-image: url("/image/img3.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img7 {
+  background-image: url("/image/img3.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img8 {
+  background-image: url("/image/auto.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img9 {
+  background-image: url("/image/img3.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.content {
+  width: 50%;
+  float: right;
+  display: inline-block;
+}
+
+.content button {
+  border-radius: 15%;
+  font-size: 20px;
+  background-color: rgb(74, 214, 97);
+  color: rgb(12, 8, 8);
+}
+.content button:hover {
+  cursor: pointer;
+  background-color: rgb(118, 131, 202);
+  color: aqua;
+}
+
+.common:hover {
+  border: rgb(9, 10, 6) dashed 5px;
+  border-radius: 10%;
+}
+.one {
+  background: -webkit-linear-gradient(blue, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-size: 50px;
+}
+
+ul {
+  overflow: hidden;
+  list-style-type: none;
+  margin: 0%;
+  padding: 0%;
+  background: -webkit-linear-gradient(blue, red);
+  padding: 0 500px;
+}
+li {
+  float: left;
+  border-right: 1px solid springgreen;
+}
+li a {
+  display: block;
+  color: rgb(247, 7, 7);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.active {
+  background-color: rgb(38, 201, 87);
+}
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+  top: 100px;
+  left: 23%;
+}
+
+.bank {
+  border-radius: 15%;
+  color: black;
+  background: -webkit-linear-gradient(yellow, red);
+}
